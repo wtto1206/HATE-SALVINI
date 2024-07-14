@@ -20,7 +20,8 @@ Detecting hate speech on social media has become crucial over the last few years
 # How To Run
 
 Install runtime **requirements.txt** file.
-Run either **entire_workflow.ipyn** in /notebooks or the scripts in `/scripts` (extract_tweets.py > topic_modleing.py > frequency_distribution.py > sentiment_and_emotion_classification.py)
+
+Run either **entire_workflow.ipyn** in `/notebooks` or the scripts in `/scripts` (extract_tweets.py > topic_modleing.py > frequency_distribution.py > sentiment_and_emotion_classification.py)
 
 # License
 
