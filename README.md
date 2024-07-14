@@ -11,15 +11,15 @@ Detecting hate speech on social media has become crucial over the last few years
 
 - `/notebooks`: contains a notebook with the whole workflow
 
-- `/report`: project report and LaTeX code
+- `/outputs`: contains the outputs of the scripts
 
-- `/requirements`: contains the requirements.txt file
+- `/report`: project report and LaTeX code
 
 - `/scripts`: contains the workflow but in scripts
 
 # How To Run
 
-Install runtime requirements in `/requirements`.
+Install runtime **requirements.txt** file.
 Run either **entire_workflow.ipyn** in /notebooks or the scripts in `/scripts` (extract_tweets.py > topic_modleing.py > frequency_distribution.py > sentiment_and_emotion_classification.py)
 
 # License
