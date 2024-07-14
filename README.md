@@ -1,5 +1,7 @@
 # HATE-SALVINI
-AP project work for Computational Modeling (WiSe 2023/2024). Project description:
+AP project work for Computational Modeling (WiSe 2023/2024). 
+
+Project description:
 
 Detecting hate speech on social media has become crucial over the last few years. Platforms like Twitter are often used by political figures to expand their political discourse to a wider audience. Their communication, however, might sometimes convey populist and xenophobic stances. The present research aims to analyze Italian politician Matteo Salvini’s tweets to investigate, with the help of Natural Language Processing (NLP) techniques, how he discusses and frames immigrants and immigration as a phenomenon, and whether nuances of xenophobia can be found in his tweets. Results showed that immigration-related issues are among the most discussed topics in Salvini’s Twitter communication, and are generally framed negatively and as a concern to society. Sentiment and Emotion classification revealed a predominantly negative tone with anger as the prevalent emotion whenever he discusses immigration-related matters. These results are in line with previous qualitative studies and highlight Salvini’s use of populist and anti-immigration rhetoric.
 
