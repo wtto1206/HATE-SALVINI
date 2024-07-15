@@ -11,7 +11,7 @@ Detecting hate speech on social media has become crucial over the last few years
 
 - `/figures_and_plots`: contains the figures, ploths and graphs obrained with the computations and contained in the report
 
-- `/notebooks`: contains a notebook with the whole workflow
+- `/notebooks`: contains a notebook with the whole workflow and separate notebooks for the individual steps followed
 
 - `/outputs`: contains the outputs of the scripts
 
@@ -23,7 +23,7 @@ Detecting hate speech on social media has become crucial over the last few years
 
 Install runtime **requirements.txt** file.
 
-Run either **entire_workflow.ipyn** in `/notebooks` or the scripts in `/scripts` (extract_tweets.py > topic_modleing.py > frequency_distribution.py > sentiment_and_emotion_classification.py)
+To reproduce the results, run either **entire_workflow.ipyn** in `/notebooks` or the individual notebooks or the scripts in `/scripts` (extract_tweets.py > topic_modleing.py > frequency_distribution.py > sentiment_and_emotion_classification.py)
 
 # License
 
